@@ -23,5 +23,6 @@ int main()
         if(c[0]>'L'&&d==0)  {d=1;cout<<st<<endl;}
         if(c[0]>'L'&&d==1)  cout<<c<<endl;
     }
+  return 0;
 }
 
